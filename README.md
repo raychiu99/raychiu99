@@ -17,8 +17,8 @@ I am an aspiring Software/ML Engineer<img src="https://media.giphy.com/media/WUl
 </br>
 </br>
 </br>
-</br>
-</br>
+
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
